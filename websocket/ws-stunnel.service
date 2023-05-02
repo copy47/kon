@@ -1,6 +1,6 @@
 [Unit]
-Description=SSH Over Websocket Python By TheKill
-Documentation=https://thekillstore.me
+Description=SSH Over Websocket Python By Cok
+Documentation=https://google.com
 After=network.target nss-lookup.target
 
 [Service]
